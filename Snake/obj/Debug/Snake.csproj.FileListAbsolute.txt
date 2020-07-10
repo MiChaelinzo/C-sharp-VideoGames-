@@ -1,0 +1,14 @@
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\bin\Debug\Snake.exe.config
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\bin\Debug\Snake.exe
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\bin\Debug\Snake.pdb
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\obj\Debug\Snake.exe
+E:\Projects for code-projects\game\CSharpConsoleGames-master\Snake\obj\Debug\Snake.pdb
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\bin\Debug\Snake.exe.config
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\bin\Debug\Snake.exe
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\bin\Debug\Snake.pdb
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\obj\Debug\Snake.exe
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\Snake\obj\Debug\Snake.pdb

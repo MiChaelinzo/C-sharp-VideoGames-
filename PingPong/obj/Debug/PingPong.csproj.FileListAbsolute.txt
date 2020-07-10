@@ -1,0 +1,7 @@
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\bin\Debug\PingPong.exe
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\bin\Debug\PingPong.pdb
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\obj\Debug\PingPong.exe
+C:\Users\insoa\Downloads\SIMPLE_GAMES_COLLECTION_IN_C_WITH_SOURCE_CODE\CSharp Console Games\PingPong\obj\Debug\PingPong.pdb
