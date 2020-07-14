@@ -6,7 +6,12 @@
 ![](https://img.shields.io/github/license/MiChaelinzo/C-sharp-VideoGames)
 ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMiChaelinzo%2FC-sharp-VideoGames)
 
-## Runs in Visual Studio 2019 incl. Cars, PingPong, Snake, Tetris &amp; Tron
+![Image of Snake](https://github.com/MiChaelinzo/C-sharp-VideoGames/blob/master/C%23VideogamesSample/SnakeSample.PNG)
+![Image of Pingpong](https://github.com/MiChaelinzo/C-sharp-VideoGames/blob/master/C%23VideogamesSample/SnakeSample.PNG)
+![Image of Tetris](https://github.com/MiChaelinzo/C-sharp-VideoGames/blob/master/C%23VideogamesSample/TetrisSample.PNG)
+
+
+#### Runs in Visual Studio 2019 incl. Cars, PingPong, Snake, Tetris &amp; Tron
 
 ## [GPL-3.0 License](https://raw.githubusercontent.com/MiChaelinzo/C-sharp-VideoGames/master/LICENSE)
 
