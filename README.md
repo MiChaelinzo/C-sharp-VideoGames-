@@ -11,7 +11,8 @@
 ![Image of Tetris](https://github.com/MiChaelinzo/C-sharp-VideoGames/blob/master/C%23VideogamesSample/TetrisSample.PNG)
 
 
-#### Coded with C# runs in Visual Studio 2019 incl. Cars, PingPong, Snake, Tetris &amp; Tron
+#### Coded with C# runs in Visual Studio 2019 incl. Cars, PingPong, Snake, Tetris &amp; Tron 
+#### Will be updating to add sprites soon!
 
 ## [GPL-3.0 License](https://raw.githubusercontent.com/MiChaelinzo/C-sharp-VideoGames/master/LICENSE)
 
